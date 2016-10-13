@@ -1,0 +1,5 @@
+git init - при входе
+git pull - обновление
+git add . - добавить файл
+git commit -m - создать обновление
+git push origin master - отправить обновление
